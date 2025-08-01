@@ -24,11 +24,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "ADMIN_NAME": "Nguyễn Hoang Anh"
     "TDS_TOKEN": "TDS0nI2IXZ2V2ciojIyVmdlNnIsISOwAzayFGRiojIyV2c1Jye",
     "BOTNAME": "૮꒰ ྀི >⸝⸝⸝<ƙųðℴ~₷ƙ¡ß¡ð¡ ྀི꒱ა",
     "FACEBOOK_ADMIN": "https://www.facebook.com/share/16o2JxCnTy/",
-    "PREFIX": "/",
+    "PREFIX": "?",
     "ADMINBOT": [
         "100055619407039"
     ],
